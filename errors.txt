@@ -1,0 +1,1 @@
+ERROR: eth-brownie 1.16.2 has requirement black==21.7b0, but you'll have black 19.10b0 which is incompatible.
